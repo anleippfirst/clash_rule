@@ -1,0 +1,15 @@
+payload:
+  # Wechat
+  - PROCESS-NAME,WeChatAppEx Helper
+  # High consumption of data
+  - DOMAIN-SUFFIX,yahoo.com
+  - DOMAIN-SUFFIX,githubusercontent.com
+  - DOMAIN-SUFFIX,googleapis.com
+  - DOMAIN-SUFFIX,npmjs.com
+  - DOMAIN-SUFFIX,cocoapods.org
+  - DOMAIN-SUFFIX,pornhub.com
+  - DOMAIN-SUFFIX,github.com
+  - DOMAIN-SUFFIX,ghcr.io
+  - DOMAIN-SUFFIX,rvm_io.global.ssl.fastly.net
+  - DOMAIN-KEYWORD,jetbrains
+  - DOMAIN-KEYWORD,aol
